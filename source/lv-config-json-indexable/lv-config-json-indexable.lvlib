@@ -24,7 +24,6 @@
 			<Item Name="command.ctl" Type="VI" URL="../public/_controls/command.ctl"/>
 			<Item Name="configuration.ctl" Type="VI" URL="../public/_controls/configuration.ctl"/>
 		</Item>
-		<Item Name="check.vi" Type="VI" URL="../public/check.vi"/>
 	</Item>
 	<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 </Library>
